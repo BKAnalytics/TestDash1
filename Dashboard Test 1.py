@@ -59,6 +59,7 @@ df = df.astype(data_types)
 
 # Create a Dash web application
 app = dash.Dash(__name__)
+server=app.server
 
 # Layout of the app
 app.layout = html.Div([
