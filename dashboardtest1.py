@@ -4,8 +4,6 @@
 # In[1]:
 
 
-pip install dash pandas
-
 
 # In[3]:
 
