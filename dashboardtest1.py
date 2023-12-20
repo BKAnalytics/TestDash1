@@ -8,7 +8,6 @@
 # In[3]:
 
 
-pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org dash
 
 
 # In[210]:
